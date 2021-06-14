@@ -8,9 +8,10 @@ body{
 }
 
 .navbar{
-    padding: 15px 20px;
+    padding:25px 5%;
     background: linear-gradient(#bdc3c7,#2c3e50);
     margin-top: 10px;
+    border: 2px solid black;
 }
 .navbar a{
     text-decoration: none;
